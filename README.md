@@ -1,2 +1,2 @@
-# P-PRIMS-ALGORITHM
+# DESIGN ALGORITHMS
 Implementing Prims Algorithm
